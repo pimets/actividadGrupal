@@ -1,2 +1,2 @@
 # actividadGrupal
-xime
+xime Echavarria
